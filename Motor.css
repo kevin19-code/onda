@@ -1,0 +1,169 @@
+html{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+
+.aini{
+
+text-decoration: none;
+display: inline-block;
+color: rgb(0, 0, 218);
+font-size: 20px;
+margin: 5px 100px 10px 10px;
+
+}
+
+.bb{
+
+background-color: white;
+margin: 0 0 10px 10px;
+border: none;
+height: 300px;
+width: 200px;
+
+}
+
+
+.mgi{
+
+width: 160px;
+height: 160px;
+
+;
+
+}
+
+.Lk{
+margin: 2%;
+display: inline-block;
+background-color: white;
+background: rgba(0,0,0,0.4);
+
+}
+
+.JP{
+
+margin: 2%;
+
+padding: 2%;
+
+left: 100%;
+
+}
+
+table{
+
+    border: solid 1px;
+    background-color: lightcyan;
+  border-collapse: collapse;
+  width: 100%;
+  margin: none;
+
+}
+
+th,td{
+width: 300px;
+border: solid 1px;
+
+}
+
+body {
+
+    margin: 0;
+}
+
+.JL{
+
+    margin: 1%;
+    padding: 1%;
+
+}
+
+.bar{
+
+    background-color: beige;
+  border: solid 0.1px;
+    padding: 5%;
+    width: 220px;
+    
+    border-radius: 4%;
+
+}
+
+
+.punto{
+
+    background-color: aqua;
+border: 0px;
+width: 100px;
+height: 60px;
+transition: background-color 0.5s ease;
+
+
+}
+
+.punto:haver{
+
+background-color: rgb(128, 0, 255);
+
+
+}
+
+.forma{
+
+border-color: rgb(192, 192, 192);
+border: solid 1px rgb(202, 202, 202);
+
+}
+
+.otra{
+
+background-color: rgb(15, 15, 15);
+
+
+
+}
+
+
+.vivi{
+
+min-height: 100%;
+min-width: 100%;
+height: auto;
+width: auto;
+z-index: -2;
+position: fixed;
+background-size: cover;
+right: 0px;
+bottom: 0px;
+
+}
+
+
+.capa{
+position: fixed;
+height: 100%;
+width: 100%;
+z-index: -1;
+top: 0;
+right: 0;
+background: rgba(0, 0, 0, 0.7);
+
+
+}
+
+
+.divo{
+
+background-color: white;
+
+height: 30px;
+
+overflow: hidden;
+
+
+
+}
+
